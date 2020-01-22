@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/davidmahfouz/azure-java-pipelines/_apis/build/status/dmahfouz.azure-java-pipeline?branchName=master)](https://dev.azure.com/davidmahfouz/azure-java-pipelines/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/davidmahfouz/azure-java-pipelines/_apis/build/status/dmahfouz.azure-java-pipeline?branchName=master)](https://dev.azure.com/davidmahfouz/azure-java-pipelines/_apis/build/status/dmahfouz.azure-java-pipeline?branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
